@@ -6,7 +6,7 @@ This project implements the game of TicTacToe in a graphical user interface, all
 
 [Executable Jar File](https://github.com/aaWang27/TicTacToeGame/raw/main/TicTacToeGame.jar)
 
-[Source Code](https://github.com/aaWang27/TicTacToeGame/raw/main/TicTacToe/TicTacToeGameCode.zip)
+[Source Code](https://github.com/aaWang27/TicTacToeGame/raw/main/TicTacToeGameCode.zip)
 
 ### Images of Project Running
 
