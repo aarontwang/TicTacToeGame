@@ -10,12 +10,12 @@ This project implements the game of TicTacToe in a graphical user interface, all
 
 ### Images of Project Running
 
-![](https://github.com/aaWang27/aaWang27.github.io/blob/b2a8ee725feb09a929d0df4f6619593f3700cf46/TicTacToe/images/TicTacToeStart.PNG)
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeStart.PNG?raw=true)
 
-![](https://github.com/aaWang27/aaWang27.github.io/blob/b2a8ee725feb09a929d0df4f6619593f3700cf46/TicTacToe/images/TicTacToeRunning1.PNG)
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeRunning1.PNG?raw=true)
 
-![](https://github.com/aaWang27/aaWang27.github.io/blob/b2a8ee725feb09a929d0df4f6619593f3700cf46/TicTacToe/images/TicTacToeRunning2.PNG)
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeRunning2.PNG?raw=true)
 
-![](https://github.com/aaWang27/aaWang27.github.io/blob/b2a8ee725feb09a929d0df4f6619593f3700cf46/TicTacToe/images/TicTacToeRunning3.PNG)
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeRunning3.PNG?raw=true)
 
-![](https://github.com/aaWang27/aaWang27.github.io/blob/b2a8ee725feb09a929d0df4f6619593f3700cf46/TicTacToe/images/TicTacToeRunning4.PNG)
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeRunning4.PNG?raw=true)
